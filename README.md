@@ -8,6 +8,6 @@ After brushing off my brain and getting the ln(2) binary expansion working (I th
 
 [Unbounded Spigot Algorithms for the Digits of Pi](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/spigot.pdf)
 
-You will notice that the algorithm I ended up using can be found on the second-to-last page of his paper, but in Python. The spigot function is a modified version of Gauss' algorithm considering Gibbons' unproven conjecture. I am not the first person to do this and googling around will find many implementations of this algorithm, most of which match what I am using nearly exactly. 
+You will notice that the algorithm I ended up using can be found on the second-to-last page of his paper, but in Python. The spigot function is a modified version of Gospher's algorithm considering Gibbons' unproven conjecture. I am not the first person to do this and googling around will find many implementations of this algorithm, most of which match what I am using nearly exactly. 
 
 I want to be clear that none of these are my algorithms but they are my code based on interpretations of other people's algorithms and conjectures. 
